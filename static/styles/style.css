@@ -1,0 +1,66 @@
+.col {
+    background-image: url(../images/3d-rendering-sestiugol-noi-tekstury-fona.jpg);
+    background-size: cover;
+    display: inline-block;
+    margin-left: 20px;
+    padding: 7px;
+    border-radius: 20px;
+}
+h1 {
+    text-align: center;
+    background-image: url(../images/vecteezy_blue-background-pictures-hd-cyan-wallpaper-download-free_21686132.jpg);
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+h1:hover {
+    text-align: center;
+    background-image: url(../images/Windows\ XP.jpg);
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.col>a>button {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-image: url(../images/blue-abstract-clean-soft-beautiful-wallpaper-background-desktop-with-generative-ai_455711-1591.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+.btn:hover {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-image: url(../images/Windows\ XP.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+body {
+    background-image: url(../images/3d-rendering-sestiugol-noi-tekstury-fona.jpg);
+    background-size: cover;
+}
+.main {
+    text-align: left;
+}
+.maini {
+    display: inline-block;
+}
+.coly {
+    text-align: right;
+    float: right;
+}
+h3 {
+        text-align: center;
+    background-image: url(../images/blue-abstract-clean-soft-beautiful-wallpaper-background-desktop-with-generative-ai_455711-1591.jpg);
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    border-radius: 10px;
+}
+h3:hover {
+        text-align: center;
+    background-image: url(../images/Windows\ XP.jpg);
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    border-radius: 10px;
+}
